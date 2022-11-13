@@ -7,7 +7,7 @@ I'm Damen Kangnaan. <br> I am an aspiring Web Developer
 <p>- CSS</p>
 <p>- JavaScript</p>
 <p>- PHP (Laravel)</p>
-<p>- Python (Flask)</p>
+<p>- Python</p>
 
 <p align='center'>For enquiries, reach out @damenkay or over on <a href="https://twitter.com/damenkay">Twitter</a>.</p>
 
